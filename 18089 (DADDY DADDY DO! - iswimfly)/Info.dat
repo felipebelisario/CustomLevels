@@ -1,0 +1,45 @@
+{
+  "_version": "2.0.0",
+  "_songName": "DADDY DADDY DO!",
+  "_songSubName": "",
+  "_songAuthorName": "Masayuki Suzuki",
+  "_levelAuthorName": "iswimfly",
+  "_beatsPerMinute": 138,
+  "_previewStartTime": 59.5,
+  "_previewDuration": 17,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_coverImageFilename": "cover.jpg",
+  "_songFilename": "audio.egg",
+  "_environmentName": "DefaultEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.7.374"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_difficultyLabel": "Romantic",
+            "_suggestions": [
+              "Chroma"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

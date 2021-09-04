@@ -1,0 +1,39 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Lovers On The Sun",
+  "_songSubName": "(feat. Sam Martin)",
+  "_songAuthorName": "David Guetta",
+  "_levelAuthorName": "Z-ANESaber",
+  "_beatsPerMinute": 125,
+  "_previewStartTime": 80,
+  "_previewDuration": 12,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_coverImageFilename": "cover.png",
+  "_songFilename": "song.egg",
+  "_environmentName": "DefaultEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.7.370"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 19,
+          "_noteJumpStartBeatOffset": 0.3
+        }
+      ]
+    }
+  ]
+}

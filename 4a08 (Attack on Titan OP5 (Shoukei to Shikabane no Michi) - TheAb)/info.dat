@@ -1,0 +1,98 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Attack on Titan OP5 (Shoukei to Shikabane no Michi)",
+  "_songSubName": "",
+  "_songAuthorName": "Linked Horizon",
+  "_levelAuthorName": "Ab",
+  "_beatsPerMinute": 178,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.png",
+  "_environmentName": "BigMirrorEnvironment",
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Mapped and Lighter",
+        "_name": "Ab aka TheAb",
+        "_iconPath": "ab.png"
+      }
+    ],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "Normal.dat",
+          "_noteJumpMovementSpeed": 10,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "Hard.dat",
+          "_noteJumpMovementSpeed": 13,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 1,
+          "_customData": {
+            "_difficultyLabel": "Expert",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

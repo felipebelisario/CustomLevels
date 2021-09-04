@@ -1,0 +1,250 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Who Can It Be Now",
+  "_songSubName": "",
+  "_songAuthorName": "Men At Work",
+  "_levelAuthorName": "TechButterfly",
+  "_beatsPerMinute": 128.5,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "90Degree",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert90.dat",
+          "_noteJumpMovementSpeed": 13,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.3254902,
+              "b": 0.6627451
+            },
+            "_colorRight": {
+              "r": 0.682353,
+              "g": 0.8627451,
+              "b": 0.9686275
+            },
+            "_envColorLeft": {
+              "r": 0,
+              "g": 0.9019608,
+              "b": 0.4509804
+            },
+            "_envColorRight": {
+              "r": 1,
+              "g": 0.5019608,
+              "b": 0
+            },
+            "_obstacleColor": {
+              "r": 1,
+              "g": 1,
+              "b": 0.5019608
+            }
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyStandard.dat",
+          "_noteJumpMovementSpeed": 8,
+          "_noteJumpStartBeatOffset": -0.30000001192092896,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.3254902,
+              "b": 0.6627451
+            },
+            "_colorRight": {
+              "r": 0.682353,
+              "g": 0.8627451,
+              "b": 0.9686275
+            },
+            "_envColorLeft": {
+              "r": 0,
+              "g": 0.9019608,
+              "b": 0.4509804
+            },
+            "_envColorRight": {
+              "r": 1,
+              "g": 0.5019608,
+              "b": 0
+            },
+            "_obstacleColor": {
+              "r": 1,
+              "g": 1,
+              "b": 0.5019608
+            }
+          }
+        },
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalStandard.dat",
+          "_noteJumpMovementSpeed": 10,
+          "_noteJumpStartBeatOffset": 0.6000000238418579,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.3254902,
+              "b": 0.6627451
+            },
+            "_colorRight": {
+              "r": 0.682353,
+              "g": 0.8627451,
+              "b": 0.9686275
+            },
+            "_envColorLeft": {
+              "r": 0,
+              "g": 0.9019608,
+              "b": 0.4509804
+            },
+            "_envColorRight": {
+              "r": 1,
+              "g": 0.5019608,
+              "b": 0
+            },
+            "_obstacleColor": {
+              "r": 1,
+              "g": 1,
+              "b": 0.5019608
+            }
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 13,
+          "_noteJumpStartBeatOffset": 0.20000000298023224,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.3254902,
+              "b": 0.6627451
+            },
+            "_colorRight": {
+              "r": 0.682353,
+              "g": 0.8627451,
+              "b": 0.9686275
+            },
+            "_envColorLeft": {
+              "r": 0,
+              "g": 0.9019608,
+              "b": 0.4509804
+            },
+            "_envColorRight": {
+              "r": 1,
+              "g": 0.5019608,
+              "b": 0
+            },
+            "_obstacleColor": {
+              "r": 1,
+              "g": 1,
+              "b": 0.5019608
+            }
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.3254902,
+              "b": 0.6627451
+            },
+            "_colorRight": {
+              "r": 0.682353,
+              "g": 0.8627451,
+              "b": 0.9686275
+            },
+            "_envColorLeft": {
+              "r": 0,
+              "g": 0.9019608,
+              "b": 0.4509804
+            },
+            "_envColorRight": {
+              "r": 1,
+              "g": 0.5019608,
+              "b": 0
+            },
+            "_obstacleColor": {
+              "r": 1,
+              "g": 1,
+              "b": 0.5019608
+            }
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName": "360Degree",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus360.dat",
+          "_noteJumpMovementSpeed": 13,
+          "_noteJumpStartBeatOffset": 0.20000000298023224,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.3254902,
+              "b": 0.6627451
+            },
+            "_colorRight": {
+              "r": 0.682353,
+              "g": 0.8627451,
+              "b": 0.9686275
+            },
+            "_envColorLeft": {
+              "r": 0,
+              "g": 0.9019608,
+              "b": 0.4509804
+            },
+            "_envColorRight": {
+              "r": 1,
+              "g": 0.5019608,
+              "b": 0
+            },
+            "_obstacleColor": {
+              "r": 1,
+              "g": 1,
+              "b": 0.5019608
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}

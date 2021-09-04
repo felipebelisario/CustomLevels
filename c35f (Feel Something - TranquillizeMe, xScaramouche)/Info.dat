@@ -1,0 +1,132 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Feel Something",
+  "_songSubName": "",
+  "_songAuthorName": "ILLENIUM, Excision, I Prevail",
+  "_levelAuthorName": "TranquillizeMe, xScaramouche",
+  "_beatsPerMinute": 150,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 130,
+  "_previewDuration": 15,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "OriginsEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [
+      {
+        "_name": "TranquillizeMe",
+        "_role": "Mapper & Lighter",
+        "_iconPath": "tranquillizeme.png"
+      },
+      {
+        "_name": "xScaramouche",
+        "_role": "Mapper",
+        "_iconPath": "xscaramouche.png"
+      }
+    ],
+    "_editor": "ChroMapper/0.7.0"
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalStandard.dat",
+          "_noteJumpMovementSpeed": 13,
+          "_noteJumpStartBeatOffset": 1.5,
+          "_customData": {
+            "_environmentRemoval": [
+              "Spectrograms"
+            ],
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_suggestions": [
+              "Chroma"
+            ]
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_environmentRemoval": [
+              "Spectrograms"
+            ],
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_suggestions": [
+              "Chroma"
+            ]
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 21,
+          "_noteJumpStartBeatOffset": -0.5,
+          "_customData": {
+            "_environmentRemoval": [
+              "Spectrograms"
+            ],
+            "_difficultyLabel": "xScara (Ex+)",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_suggestions": [
+              "Chroma"
+            ]
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 21,
+          "_noteJumpStartBeatOffset": -0.5,
+          "_customData": {
+            "_environmentRemoval": [
+              "Spectrograms"
+            ],
+            "_difficultyLabel": "Tranq (Ex+)",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_suggestions": [
+              "Chroma"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName": "Lightshow",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyLightshow.dat",
+          "_noteJumpMovementSpeed": 21,
+          "_noteJumpStartBeatOffset": -0.5,
+          "_customData": {
+            "_environmentRemoval": [
+              "Spectrograms"
+            ],
+            "_difficultyLabel": "Lightshow",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_suggestions": [
+              "Chroma"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}

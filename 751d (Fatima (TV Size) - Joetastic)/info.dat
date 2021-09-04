@@ -1,0 +1,56 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Fatima (TV Size)",
+  "_songSubName": "",
+  "_songAuthorName": "Kanako Itou",
+  "_levelAuthorName": "Joetastic",
+  "_beatsPerMinute": 179,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 64.2409439086914,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "NiceEnvironment",
+  "_songTimeOffset": 0,
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 51,
+            "_editorOldOffset": 51
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 51,
+            "_editorOldOffset": 51
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 51,
+            "_editorOldOffset": 51
+          }
+        }
+      ]
+    }
+  ]
+}

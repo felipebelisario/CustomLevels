@@ -1,0 +1,91 @@
+{
+  "_version": "2.0.0",
+  "_songName": "[Real Ver.]You've Got a Friend in Me",
+  "_songSubName": "",
+  "_songAuthorName": "Randy Newman",
+  "_levelAuthorName": "ButtKraken",
+  "_beatsPerMinute": 116,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 35.70000076293945,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Contributor",
+        "_name": "Ryger",
+        "_iconPath": ""
+      },
+      {
+        "_role": "Playtester",
+        "_name": "RedMagi",
+        "_iconPath": ""
+      }
+    ],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "Normal.dat",
+          "_noteJumpMovementSpeed": 9,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.9,
+              "g": 0.9,
+              "b": 0
+            },
+            "_colorRight": {
+              "r": 0.5,
+              "g": 0.5,
+              "b": 1
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.9,
+              "g": 0.9,
+              "b": 0
+            },
+            "_colorRight": {
+              "r": 0.5,
+              "g": 0.5,
+              "b": 1
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Hymn For The Weekend",
+  "_songSubName": "",
+  "_songAuthorName": "Coldplay",
+  "_levelAuthorName": "Rocket",
+  "_beatsPerMinute": 90,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 95.69999694824219,
+  "_previewDuration": 10.699999809265137,
+  "_songFilename": "Hymn For The Weekend - Coldplay.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "Easy.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 650,
+            "_editorOldOffset": 650,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "Normal.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 650,
+            "_editorOldOffset": 650,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "Hard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 650,
+            "_editorOldOffset": 650,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 650,
+            "_editorOldOffset": 650,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

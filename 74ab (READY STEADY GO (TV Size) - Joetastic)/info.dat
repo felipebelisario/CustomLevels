@@ -1,0 +1,56 @@
+{
+  "_version": "2.0.0",
+  "_songName": "READY STEADY GO (TV Size)",
+  "_songSubName": "",
+  "_songAuthorName": "L'arc~en~Ciel",
+  "_levelAuthorName": "Joetastic",
+  "_beatsPerMinute": 144,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 61.07666778564453,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "NiceEnvironment",
+  "_songTimeOffset": 0,
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "Hard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 660,
+            "_editorOldOffset": 660
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 13.5,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 660,
+            "_editorOldOffset": 660
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 660,
+            "_editorOldOffset": 660
+          }
+        }
+      ]
+    }
+  ]
+}

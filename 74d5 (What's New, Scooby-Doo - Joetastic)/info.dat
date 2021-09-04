@@ -1,0 +1,34 @@
+{
+  "_version": "2.0.0",
+  "_songName": "What's New, Scooby-Doo?",
+  "_songSubName": "",
+  "_songAuthorName": "Simple Plan",
+  "_levelAuthorName": "Joetastic",
+  "_beatsPerMinute": 158.02999877929688,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 16.8880672454834,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 40,
+            "_editorOldOffset": 40
+          }
+        }
+      ]
+    }
+  ]
+}

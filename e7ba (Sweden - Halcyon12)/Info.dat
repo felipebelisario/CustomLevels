@@ -1,0 +1,64 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Sweden",
+  "_songSubName": "",
+  "_songAuthorName": "C148",
+  "_levelAuthorName": "Halcyon12",
+  "_beatsPerMinute": 88,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 33.75,
+  "_previewDuration": 9.420689582824707,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.png",
+  "_environmentName": "NiceEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Mapper",
+        "_name": "Halcyon12",
+        "_iconPath": "icon.png"
+      }
+    ]
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalStandard.dat",
+          "_noteJumpMovementSpeed": 11,
+          "_noteJumpStartBeatOffset": -0.20000000298023224,
+          "_customData": {
+            "_difficultyLabel": "Mine",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": -0.4000000059604645,
+          "_customData": {
+            "_difficultyLabel": "Craft",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

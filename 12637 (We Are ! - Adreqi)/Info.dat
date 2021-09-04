@@ -1,0 +1,47 @@
+{
+  "_version": "2.0.0",
+  "_songName": "We Are !",
+  "_songSubName": "",
+  "_songAuthorName": "Hiroshi Kitadani",
+  "_levelAuthorName": "Adreqi",
+  "_beatsPerMinute": 168,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "onepiece_weare.egg",
+  "_coverImageFilename": "weare.jpg",
+  "_environmentName": "TriangleEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [],
+    "_editors": {
+      "MMA2": {
+        "version": "4.5.2"
+      },
+      "_lastEditedBy": "MMA2"
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

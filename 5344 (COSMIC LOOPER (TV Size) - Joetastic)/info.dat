@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "COSMIC LOOPER (TV Size)",
+  "_songSubName": "",
+  "_songAuthorName": "Itou Kanako",
+  "_levelAuthorName": "Joetastic",
+  "_beatsPerMinute": 148,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 94.4294662475586,
+  "_previewDuration": 13,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "TriangleEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": -30,
+            "_editorOldOffset": -30,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

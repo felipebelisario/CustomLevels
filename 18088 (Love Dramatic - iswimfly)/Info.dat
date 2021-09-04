@@ -1,0 +1,60 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Love Dramatic",
+  "_songSubName": "",
+  "_songAuthorName": "Masayuki Suzuki",
+  "_levelAuthorName": "iswimfly",
+  "_beatsPerMinute": 129,
+  "_previewStartTime": 57,
+  "_previewDuration": 25,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_coverImageFilename": "cover.jpg",
+  "_songFilename": "audio.egg",
+  "_environmentName": "DefaultEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.7.374"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 20,
+          "_noteJumpStartBeatOffset": 1,
+          "_customData": {
+            "_difficultyLabel": "Love Me!",
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_envColorLeft": {
+              "r": 1,
+              "g": 0.461,
+              "b": 0.461
+            },
+            "_envColorRight": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "_obstacleColor": {
+              "r": 1,
+              "g": 0.461,
+              "b": 0.461
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

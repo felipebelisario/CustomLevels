@@ -1,0 +1,106 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Build Me Up Buttercup",
+  "_songSubName": "",
+  "_songAuthorName": "The Foundations",
+  "_levelAuthorName": "Majorpickle",
+  "_beatsPerMinute": 135,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 11,
+          "_noteJumpStartBeatOffset": 0.20000000298023224,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.7960784,
+              "g": 0.07843138,
+              "b": 0.3294118
+            },
+            "_colorRight": {
+              "r": 0.5019608,
+              "g": 0.5019608,
+              "b": 0.7529412
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 1,
+              "b": 0
+            },
+            "_envColorRight": {
+              "r": 0.227451,
+              "g": 0.5843138,
+              "b": 0.772549
+            },
+            "_obstacleColor": {
+              "r": 0.9058824,
+              "g": 0.07450981,
+              "b": 0.9254902
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": 0.20000000298023224,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.7960784,
+              "g": 0.07843138,
+              "b": 0.3294118
+            },
+            "_colorRight": {
+              "r": 0.5019608,
+              "g": 0.5019608,
+              "b": 0.7529412
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 1,
+              "b": 0
+            },
+            "_envColorRight": {
+              "r": 0.227451,
+              "g": 0.5843138,
+              "b": 0.772549
+            },
+            "_obstacleColor": {
+              "r": 0.9058824,
+              "g": 0.07450981,
+              "b": 0.9254902
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
