@@ -1,0 +1,47 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Throwing a Flashbang",
+  "_songSubName": "",
+  "_songAuthorName": "Valve Audio Team",
+  "_levelAuthorName": "Joetastic",
+  "_beatsPerMinute": 174.2969970703125,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 0,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "OneSaber",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasySingle Saber.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "FLASHBANG WARNING",
+            "_editorOffset": 47,
+            "_editorOldOffset": 47,
+            "_colorLeft": {
+              "r": 1000000,
+              "g": 1000000,
+              "b": 1000000
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
