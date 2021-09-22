@@ -1,0 +1,116 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Another Day",
+  "_songSubName": "(feat. Nevve)",
+  "_songAuthorName": "Dabin x Inukshuk",
+  "_levelAuthorName": "Alice",
+  "_beatsPerMinute": 120,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 126,
+  "_previewDuration": 50,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "PanicEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_editors": {
+      "MMA2": {
+        "version": "4.5.0"
+      },
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.7.0"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Lightshow",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusLightshow.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_difficultyLabel": "Chroma Lightshow",
+            "_environmentRemoval": [
+              "BottomCones",
+              "TopCones",
+              "TrackMirror",
+              "TrackConstruction",
+              "Spectrogram",
+              "ConstructionGlowLine (4)",
+              "ConstructionGlowLine (5)",
+              "ConstructionGlowLine (8)",
+              "ConstructionGlowLine (15)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_difficultyLabel": "Chroma Ex",
+            "_environmentRemoval": [
+              "BottomCones",
+              "TopCones",
+              "TrackMirror",
+              "TrackConstruction",
+              "Spectrogram",
+              "ConstructionGlowLine (4)",
+              "ConstructionGlowLine (5)",
+              "ConstructionGlowLine (8)",
+              "ConstructionGlowLine (15)"
+            ]
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_difficultyLabel": "Chroma Ex+",
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_environmentRemoval": [
+              "BottomCones",
+              "TopCones",
+              "TrackMirror",
+              "TrackConstruction",
+              "Spectrogram",
+              "ConstructionGlowLine (4)",
+              "ConstructionGlowLine (5)",
+              "ConstructionGlowLine (8)",
+              "ConstructionGlowLine (15)"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}
