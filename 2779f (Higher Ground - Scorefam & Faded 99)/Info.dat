@@ -1,0 +1,69 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Higher Ground",
+  "_songSubName": "",
+  "_songAuthorName": "Imagine Dragons",
+  "_levelAuthorName": "Scorefam & Faded 99",
+  "_beatsPerMinute": 122,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 36,
+  "_previewDuration": 12,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "ID.jpg",
+  "_environmentName": "DragonsEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.8.497"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": -0.8,
+          "_customData": {
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_colorRight": {
+              "r": 0.518,
+              "g": 0.518,
+              "b": 0.518
+            },
+            "_colorLeft": {
+              "r": 0.965,
+              "g": 0.082,
+              "b": 0.047
+            },
+            "_obstacleColor": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "_envColorRight": {
+              "r": 0.431,
+              "g": 0.431,
+              "b": 0.431
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 0,
+              "b": 0
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

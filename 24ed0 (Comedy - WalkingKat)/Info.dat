@@ -1,0 +1,52 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Comedy",
+  "_songSubName": "",
+  "_songAuthorName": "Gen Hoshino",
+  "_levelAuthorName": "WalkingKat",
+  "_beatsPerMinute": 175.99,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 50,
+  "_previewDuration": 15,
+  "_songFilename": "comedy louder.egg",
+  "_coverImageFilename": "ab67616d0000b27326573d555999566291e3b7a8.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.8.454"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyStandard.dat",
+          "_noteJumpMovementSpeed": 11,
+          "_noteJumpStartBeatOffset": -1.5,
+          "_customData": {
+            "_difficultyLabel": "Carrots"
+          }
+        },
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalStandard.dat",
+          "_noteJumpMovementSpeed": 13,
+          "_noteJumpStartBeatOffset": -1.8,
+          "_customData": {
+            "_difficultyLabel": "Peanuts"
+          }
+        }
+      ]
+    }
+  ]
+}

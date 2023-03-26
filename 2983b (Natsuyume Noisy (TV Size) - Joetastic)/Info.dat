@@ -1,0 +1,143 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Natsuyume Noisy (TV Size)",
+  "_songSubName": "",
+  "_songAuthorName": "Asaka",
+  "_levelAuthorName": "Joetastic",
+  "_beatsPerMinute": 160,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 52.312,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "MMA2": {
+        "version": "4.8.4a-e5"
+      },
+      "ChroMapper": {
+        "version": "0.8.0"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": 0.25,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_obstacleColor": {
+              "r": 0.549,
+              "g": 0.612,
+              "b": 0.639
+            },
+            "_envColorLeftBoost": {
+              "r": 1,
+              "g": 0,
+              "b": 0
+            },
+            "_envColorRightBoost": {
+              "r": 1,
+              "g": 0.494,
+              "b": 0.146
+            },
+            "_envColorLeft": {
+              "r": 0.49,
+              "g": 0.686,
+              "b": 0.702
+            },
+            "_envColorRight": {
+              "r": 0.349,
+              "g": 0.808,
+              "b": 1
+            }
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_obstacleColor": {
+              "r": 0.549,
+              "g": 0.612,
+              "b": 0.639
+            },
+            "_envColorLeftBoost": {
+              "r": 1,
+              "g": 0,
+              "b": 0
+            },
+            "_envColorRightBoost": {
+              "r": 1,
+              "g": 0.494,
+              "b": 0.146
+            },
+            "_envColorLeft": {
+              "r": 0.49,
+              "g": 0.686,
+              "b": 0.702
+            },
+            "_envColorRight": {
+              "r": 0.349,
+              "g": 0.808,
+              "b": 1
+            }
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": -0.4,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_obstacleColor": {
+              "r": 0.549,
+              "g": 0.612,
+              "b": 0.639
+            },
+            "_envColorLeftBoost": {
+              "r": 1,
+              "g": 0,
+              "b": 0
+            },
+            "_envColorRightBoost": {
+              "r": 1,
+              "g": 0.494,
+              "b": 0.146
+            },
+            "_envColorLeft": {
+              "r": 0.49,
+              "g": 0.686,
+              "b": 0.702
+            },
+            "_envColorRight": {
+              "r": 0.349,
+              "g": 0.808,
+              "b": 1
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

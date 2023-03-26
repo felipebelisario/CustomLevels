@@ -1,0 +1,102 @@
+{
+  "_version": "2.0.0",
+  "_songName": "1 (TV Size)",
+  "_songSubName": "",
+  "_songAuthorName": "MOB CHOIR",
+  "_levelAuthorName": "Comyute",
+  "_beatsPerMinute": 168,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 50.563618,
+  "_previewDuration": 20,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "PanicEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [],
+    "_editors": {
+      "_lastEditedBy": "MMA2",
+      "MMA2": {
+        "version": "4.8.4"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": -0.162,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_envColorRight": {
+              "r": 0.4238080382347107,
+              "g": 0.2923005223274231,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 0.2158605307340622,
+              "b": 0.2158605307340622
+            },
+            "_envColorRightBoost": {
+              "r": 0.4693136215209961,
+              "g": 1,
+              "b": 0.532958984375
+            },
+            "_envColorLeftBoost": {
+              "r": 1,
+              "g": 0.27017372846603394,
+              "b": 0.5300151705741882
+            }
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 19,
+          "_noteJumpStartBeatOffset": -0.526,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_envColorRightBoost": {
+              "r": 0.4677838385105133,
+              "g": 1,
+              "b": 0.5332766175270081
+            },
+            "_envColorLeftBoost": {
+              "r": 1,
+              "g": 0.2704978585243225,
+              "b": 0.5332766175270081
+            },
+            "_envColorRight": {
+              "r": 0.42326775193214417,
+              "g": 0.29177069664001465,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 0.2158605307340622,
+              "b": 0.2158605307340622
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
