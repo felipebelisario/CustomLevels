@@ -1,0 +1,137 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Zankyou Sanka",
+  "_songSubName": "",
+  "_songAuthorName": "Aimer",
+  "_levelAuthorName": "Joetastic",
+  "_beatsPerMinute": 171,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 49.649124,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "OriginsEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [],
+    "_editors": {
+      "_lastEditedBy": "MMA2",
+      "MMA2": {
+        "version": "4.8.3"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": -1,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_envColorRight": {
+              "r": 0.25764328241348267,
+              "g": 0.16193319857120514,
+              "b": 0.8000000715255737
+            },
+            "_envColorLeft": {
+              "r": 0.6941176652908325,
+              "g": 0.125490203499794,
+              "b": 0.8666667342185974
+            },
+            "_envColorRightBoost": {
+              "r": 0.9019608497619629,
+              "g": 0.5411764979362488,
+              "b": 1
+            },
+            "_envColorLeftBoost": {
+              "r": 0.7058823704719543,
+              "g": 0.6470588445663452,
+              "b": 0.2392157018184662
+            }
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": -0.15,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_envColorRight": {
+              "r": 0.25764328241348267,
+              "g": 0.16193319857120514,
+              "b": 0.8000000715255737
+            },
+            "_envColorLeft": {
+              "r": 0.6941176652908325,
+              "g": 0.125490203499794,
+              "b": 0.8666667342185974
+            },
+            "_envColorRightBoost": {
+              "r": 0.9019608497619629,
+              "g": 0.5411764979362488,
+              "b": 1
+            },
+            "_envColorLeftBoost": {
+              "r": 0.7058823704719543,
+              "g": 0.6470588445663452,
+              "b": 0.2392157018184662
+            }
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": -0.4,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_envColorRight": {
+              "r": 0.25764328241348267,
+              "g": 0.16193319857120514,
+              "b": 0.8000000715255737
+            },
+            "_envColorLeft": {
+              "r": 0.6941176652908325,
+              "g": 0.125490203499794,
+              "b": 0.8666667342185974
+            },
+            "_envColorRightBoost": {
+              "r": 0.9019608497619629,
+              "g": 0.5411764979362488,
+              "b": 1
+            },
+            "_envColorLeftBoost": {
+              "r": 0.7058823704719543,
+              "g": 0.6470588445663452,
+              "b": 0.2392157018184662
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

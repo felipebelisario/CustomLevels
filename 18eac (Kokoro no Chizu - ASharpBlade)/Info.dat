@@ -1,0 +1,41 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Kokoro no Chizu",
+  "_songSubName": "",
+  "_songAuthorName": "Boystyle",
+  "_levelAuthorName": "ASharpBlade",
+  "_beatsPerMinute": 132,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 1,
+  "_previewDuration": 30,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "NiceEnvironment",
+  "_customData": {
+    "_editor": "beatmapper",
+    "_editorSettings": {
+      "enabledFastWalls": false,
+      "modSettings": {}
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 0,
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
